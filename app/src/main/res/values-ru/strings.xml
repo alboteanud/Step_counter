@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Шагомер</string>
+    <string name="km">км</string>
+    <string name="steps">шаг.</string>
+    <string name="settings">Настройки</string>
+    <string name="calories_text">ккал</string>
+    <string name="yesterday">Вчера</string>
+    <string name="units">Единицы измерения</string>
+    <string name="years">лет</string>
+    <string name="distance">Расстояние</string>
+    <string name="gender">Жандр</string>
+    <string name="age">Возраст</string>
+    <string name="height">Рост</string>
+    <string name="weight">Вес</string>
+    <string name="default_weight">60</string>
+    <string name="kg">кг</string>
+    <string name="ft">фут</string>
+    <string name="cm">см</string>
+    <string name="male">мужской</string>
+    <string name="female">женский</string>
+    <string name="miles">mi.</string>
+
+</resources>

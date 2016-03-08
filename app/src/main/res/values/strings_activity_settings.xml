@@ -1,0 +1,24 @@
+<resources>
+
+    <string-array name="units_array">
+        <item>@string/miles</item>
+        <item>@string/km</item>
+    </string-array>
+
+    <string-array name="sex_array">
+        <item>@string/male</item>
+        <item>@string/female</item>
+    </string-array>
+
+    <string-array name="height_unit_array">
+        <item>@string/ft</item>
+        <item>@string/cm</item>
+    </string-array>
+
+    <string-array name="weight_unit_array">
+        <item>lb.</item>
+        <item>@string/kg</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+
+   <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/secondary</item>
+    </style>
+
+    <!-- Main activity theme. -->
+    <style name="StepsTheme" parent="AppTheme">
+        <item name="actionBarStyle">@style/ActionBar.Solid.Sunshine</item>
+    </style>
+
+    <!-- Settings activity theme. -->
+    <style name="SettingsTheme" parent="AppTheme">
+    </style>
+
+    <!-- main activity action bar styles -->
+    <style name="ActionBar.Solid.Sunshine" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="displayOptions">useLogo|showHome</item>
+        <item name="logo">@drawable/ic_stat_name</item>
+    </style>
+
+
+
+</resources>
