@@ -1,13 +1,12 @@
 package com.ancalutu.step_counter2;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.annotation.Nullable;
-import android.support.v7.app.ActionBarActivity;
 import android.support.v4.app.Fragment;
-import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -22,7 +21,7 @@ public class Settings extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_settings2);
+        setContentView(R.layout.activity_settings);
         if (savedInstanceState == null) {
             getSupportFragmentManager().beginTransaction()
                     .add(R.id.container, new PlaceholderFragment())
@@ -38,22 +37,19 @@ public class Settings extends ActionBarActivity {
      */
     public static class PlaceholderFragment extends Fragment {
 
+        SharedPreferences sharedPref;
+        SharedPreferences.Editor editor;
+        EditText editText_age, editText_height_cm, editText_height_ft, editText_height_in, editText_weight_kg, editText_weight_lb;
+        LinearLayout layout_ft_in;
         public PlaceholderFragment() {
         }
 
         @Override
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
-            View rootView = inflater.inflate(R.layout.fragment_settings2, container, false);
+            View rootView = inflater.inflate(R.layout.fragment_settings, container, false);
             return rootView;
         }
-
-
-        SharedPreferences sharedPref;
-        SharedPreferences.Editor editor;
-        EditText editText_age, editText_height_cm, editText_height_ft, editText_height_in, editText_weight_kg, editText_weight_lb;
-        LinearLayout layout_ft_in;
-
 
         @Override
         public void onActivityCreated(@Nullable Bundle savedInstanceState) {
@@ -106,7 +102,7 @@ public class Settings extends ActionBarActivity {
             adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
             Spinner spinner_units = (Spinner) getActivity().findViewById(R.id.spinner_units);
             spinner_units.setAdapter(adapter);
-            spinner_units.setSelection(sharedPref.getInt(Constants.UNIT_POS, 0));
+            spinner_units.setSelection(sharedPref.getInt(Constants.UNIT_POS, getResources().getInteger(R.integer.Imperial_Units)));                   //modif unitati initiale
             spinner_units.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 @Override
                 public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -149,7 +145,7 @@ public class Settings extends ActionBarActivity {
             adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
             Spinner spinner_units = (Spinner) getActivity().findViewById(R.id.spinner_height_units);
             spinner_units.setAdapter(adapter);
-            spinner_units.setSelection(sharedPref.getInt(Constants.HEIGHT_POS, 0));
+            spinner_units.setSelection(sharedPref.getInt(Constants.HEIGHT_POS, getResources().getInteger(R.integer.Imperial_Units)));                      //modif unitati initiale
             spinner_units.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 @Override
                 public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -177,7 +173,7 @@ public class Settings extends ActionBarActivity {
             adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
             Spinner spinner_units = (Spinner) getActivity().findViewById(R.id.spinner_weight_units);
             spinner_units.setAdapter(adapter);
-            spinner_units.setSelection(sharedPref.getInt(Constants.WEIGHT_POS, 0));
+            spinner_units.setSelection(sharedPref.getInt(Constants.WEIGHT_POS, getResources().getInteger(R.integer.Imperial_Units)));                      //modif unitati initiale
             spinner_units.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
                 @Override
                 public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
@@ -211,7 +207,7 @@ public class Settings extends ActionBarActivity {
             editor.putInt(Constants.WEIGHT_KG, Integer.parseInt(editText_weight_kg.getText().toString()));
             editor.putInt(Constants.WEIGHT_LB, Integer.parseInt(editText_weight_lb.getText().toString()));
             editor.commit();
-            getActivity().startService(new Intent(getActivity(), MyService.class).setAction(Constants.ACTION_SETTINGS_CHANGE));
+            getActivity().startService(new Intent(getActivity(), MainService.class).setAction(Constants.ACTION_SETTINGS_CHANGE));
 
 
         }

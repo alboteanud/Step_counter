@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="Imperial_Units">1</integer>
+    <!--set to 0 for imperial         1 for km-->
+</resources>

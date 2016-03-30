@@ -15,86 +15,166 @@ ADDED from AndroidManifest.xml:2:1
 		INJECTED from AndroidManifest.xml:0:0
 uses-sdk
 ADDED from AndroidManifest.xml:5:5
-MERGED from com.android.support:appcompat-v7:22.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-ads:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-appindexing:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-appstate:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-cast:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-drive:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-fitness:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-location:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-games:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-drive:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-gcm:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-identity:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-location:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-nearby:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-panorama:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-plus:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-safetynet:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-wallet:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-identity:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-wearable:7.0.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.android.support:appcompat-v7:23.2.0:21:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:23:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-analytics:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-appindexing:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-appinvite:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-appstate:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-auth:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-cast:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:mediarouter-v7:23.0.0:20:5
+MERGED from com.android.support:appcompat-v7:23.2.0:21:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-drive:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-fitness:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-location:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-games:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-drive:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-location:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-nearby:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-panorama:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-plus:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-safetynet:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-vision:8.4.0:4:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-wallet:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-wearable:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:23:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-base:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:18:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:18:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:design:23.1.1:20:5
+MERGED from com.android.support:appcompat-v7:23.2.0:21:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:5:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:recyclerview-v7:23.1.1:20:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:20:5
+	tools:overrideLibrary
+		ADDED from com.android.support:appcompat-v7:23.2.0:23:9
 	android:targetSdkVersion
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
@@ -104,14 +184,41 @@ MERGED from com.android.support:support-v4:22.0.0:20:5
 		INJECTED from AndroidManifest.xml:0:0
 uses-permission#android.permission.INTERNET
 ADDED from AndroidManifest.xml:7:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-analytics:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-appinvite:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:21:5
 	android:name
 		ADDED from AndroidManifest.xml:7:22
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from AndroidManifest.xml:8:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-analytics:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-nearby:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:22:5
 	android:name
 		ADDED from AndroidManifest.xml:8:22
 uses-permission#android.permission.WAKE_LOCK
 ADDED from AndroidManifest.xml:9:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:24:5
 	android:name
 		ADDED from AndroidManifest.xml:9:22
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
@@ -121,197 +228,234 @@ ADDED from AndroidManifest.xml:10:5
 uses-feature#android.hardware.sensor.stepcounter
 ADDED from AndroidManifest.xml:12:5
 	android:required
-		ADDED from AndroidManifest.xml:14:9
+		ADDED from AndroidManifest.xml:12:70
 	android:name
-		ADDED from AndroidManifest.xml:13:9
-android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:16:5
-	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:18:9
-	android:name
-		ADDED from AndroidManifest.xml:17:9
-android:uses-permission#android.permission.READ_PHONE_STATE
-ADDED from AndroidManifest.xml:19:5
-	android:name
-		ADDED from AndroidManifest.xml:19:30
-android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from AndroidManifest.xml:20:5
-	android:maxSdkVersion
-		ADDED from AndroidManifest.xml:22:9
-	android:name
-		ADDED from AndroidManifest.xml:21:9
+		ADDED from AndroidManifest.xml:12:19
 application
-ADDED from AndroidManifest.xml:24:5
-MERGED from com.android.support:appcompat-v7:22.0.0:22:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-ads:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-appindexing:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-appstate:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-cast:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-drive:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-fitness:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-location:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-games:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-drive:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-gcm:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-identity:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-location:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-nearby:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-panorama:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-plus:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-safetynet:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-wallet:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-identity:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-maps:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-wearable:7.0.0:19:5
-MERGED from com.google.android.gms:play-services-base:7.0.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
+ADDED from AndroidManifest.xml:14:5
+MERGED from com.android.support:appcompat-v7:23.2.0:25:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-analytics:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-appindexing:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-appinvite:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-appstate:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-auth:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-cast:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:mediarouter-v7:23.0.0:22:5
+MERGED from com.android.support:appcompat-v7:23.2.0:25:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-drive:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-fitness:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-location:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:27:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-games:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-drive:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-location:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:27:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:27:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-nearby:8.4.0:20:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-panorama:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-plus:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-safetynet:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-vision:8.4.0:5:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:27:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-wearable:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-ads:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-identity:8.4.0:19:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:24:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:26:5
+MERGED from com.google.android.gms:play-services-basement:8.4.0:20:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:design:23.1.1:22:5
+MERGED from com.android.support:appcompat-v7:23.2.0:25:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:animated-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:support-vector-drawable:23.2.0:7:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
+MERGED from com.android.support:support-v4:23.2.0:22:5
 	android:label
-		ADDED from AndroidManifest.xml:27:9
+		ADDED from AndroidManifest.xml:17:9
 	android:allowBackup
-		ADDED from AndroidManifest.xml:25:9
+		ADDED from AndroidManifest.xml:15:9
 	android:icon
-		ADDED from AndroidManifest.xml:26:9
+		ADDED from AndroidManifest.xml:16:9
 	android:theme
-		ADDED from AndroidManifest.xml:28:9
+		ADDED from AndroidManifest.xml:18:9
 meta-data#com.google.android.gms.version
-ADDED from AndroidManifest.xml:29:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.0.0:21:9
+ADDED from AndroidManifest.xml:19:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
+MERGED from com.google.android.gms:play-services-basement:8.4.0:21:9
 	android:value
-		ADDED from AndroidManifest.xml:31:13
+		ADDED from AndroidManifest.xml:21:13
 	android:name
-		ADDED from AndroidManifest.xml:30:13
+		ADDED from AndroidManifest.xml:20:13
 activity#com.ancalutu.step_counter2.MainActivity
-ADDED from AndroidManifest.xml:33:9
+ADDED from AndroidManifest.xml:23:9
 	android:label
-		ADDED from AndroidManifest.xml:36:13
-	android:excludeFromRecents
-		ADDED from AndroidManifest.xml:35:13
-	android:launchMode
-		ADDED from AndroidManifest.xml:37:13
+		ADDED from AndroidManifest.xml:25:13
 	android:theme
-		ADDED from AndroidManifest.xml:39:13
-	android:taskAffinity
-		ADDED from AndroidManifest.xml:38:13
+		ADDED from AndroidManifest.xml:26:13
 	android:name
-		ADDED from AndroidManifest.xml:34:13
+		ADDED from AndroidManifest.xml:24:13
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:40:13
+ADDED from AndroidManifest.xml:27:13
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:41:17
+ADDED from AndroidManifest.xml:28:17
 	android:name
-		ADDED from AndroidManifest.xml:41:25
+		ADDED from AndroidManifest.xml:28:25
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:43:17
+ADDED from AndroidManifest.xml:30:17
 	android:name
-		ADDED from AndroidManifest.xml:43:27
+		ADDED from AndroidManifest.xml:30:27
 activity#com.ancalutu.step_counter2.Settings
-ADDED from AndroidManifest.xml:46:9
+ADDED from AndroidManifest.xml:47:9
 	android:label
-		ADDED from AndroidManifest.xml:48:13
-	android:parentActivityName
 		ADDED from AndroidManifest.xml:49:13
-	android:theme
+	android:parentActivityName
 		ADDED from AndroidManifest.xml:50:13
+	android:theme
+		ADDED from AndroidManifest.xml:51:13
 	android:name
-		ADDED from AndroidManifest.xml:47:13
+		ADDED from AndroidManifest.xml:48:13
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from AndroidManifest.xml:51:13
+ADDED from AndroidManifest.xml:52:13
 	android:value
+		ADDED from AndroidManifest.xml:54:17
+	android:name
 		ADDED from AndroidManifest.xml:53:17
-	android:name
-		ADDED from AndroidManifest.xml:52:17
-service#com.ancalutu.step_counter2.MyService
-ADDED from AndroidManifest.xml:56:9
+service#com.ancalutu.step_counter2.MainService
+ADDED from AndroidManifest.xml:57:9
 	android:enabled
-		ADDED from AndroidManifest.xml:58:13
-	android:exported
 		ADDED from AndroidManifest.xml:59:13
+	android:exported
+		ADDED from AndroidManifest.xml:60:13
 	android:name
-		ADDED from AndroidManifest.xml:57:13
+		ADDED from AndroidManifest.xml:58:13
 activity#com.google.android.gms.ads.AdActivity
 ADDED from AndroidManifest.xml:62:9
+MERGED from com.google.android.gms:play-services-ads:8.4.0:26:9
+MERGED from com.google.android.gms:play-services-ads:8.4.0:26:9
 	android:configChanges
 		ADDED from AndroidManifest.xml:64:13
 	android:theme
@@ -323,20 +467,109 @@ ADDED from AndroidManifest.xml:67:9
 	android:name
 		ADDED from AndroidManifest.xml:67:19
 receiver#com.ancalutu.step_counter2.BootReceiver
-ADDED from AndroidManifest.xml:68:9
+ADDED from AndroidManifest.xml:69:9
 	android:enabled
+		ADDED from AndroidManifest.xml:71:13
+	android:name
 		ADDED from AndroidManifest.xml:70:13
-	android:name
-		ADDED from AndroidManifest.xml:69:13
-intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from AndroidManifest.xml:71:13
+intent-filter#android.intent.action.ACTION_SHUTDOWN+android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:72:13
 action#android.intent.action.BOOT_COMPLETED
-ADDED from AndroidManifest.xml:72:17
+ADDED from AndroidManifest.xml:73:17
 	android:name
-		ADDED from AndroidManifest.xml:72:25
-service#com.ancalutu.step_counter2.MyService2
-ADDED from AndroidManifest.xml:76:9
+		ADDED from AndroidManifest.xml:73:25
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from AndroidManifest.xml:74:17
+	android:name
+		ADDED from AndroidManifest.xml:74:25
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from com.google.android.gms:play-services-ads:8.4.0:30:9
+MERGED from com.google.android.gms:play-services-ads:8.4.0:30:9
+	android:theme
+		ADDED from com.google.android.gms:play-services-ads:8.4.0:31:13
+	android:name
+		ADDED from com.google.android.gms:play-services-ads:8.4.0:30:19
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from com.google.android.gms:play-services-appinvite:8.4.0:21:9
 	android:exported
-		ADDED from AndroidManifest.xml:78:13
+		ADDED from com.google.android.gms:play-services-appinvite:8.4.0:23:17
+	android:theme
+		ADDED from com.google.android.gms:play-services-appinvite:8.4.0:24:17
 	android:name
-		ADDED from AndroidManifest.xml:77:13
+		ADDED from com.google.android.gms:play-services-appinvite:8.4.0:22:17
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from com.google.android.gms:play-services-appinvite:8.4.0:25:13
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from com.google.android.gms:play-services-appinvite:8.4.0:26:17
+	android:name
+		ADDED from com.google.android.gms:play-services-appinvite:8.4.0:26:25
+category#android.intent.category.DEFAULT
+ADDED from com.google.android.gms:play-services-appinvite:8.4.0:27:17
+	android:name
+		ADDED from com.google.android.gms:play-services-appinvite:8.4.0:27:27
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from com.google.android.gms:play-services-auth:8.4.0:21:9
+	android:excludeFromRecents
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:23:19
+	android:exported
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:24:19
+	android:theme
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:22:19
+	android:name
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:21:19
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from com.google.android.gms:play-services-auth:8.4.0:28:9
+	android:exported
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:30:13
+	android:permission
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:31:13
+	android:name
+		ADDED from com.google.android.gms:play-services-auth:8.4.0:29:13
+uses-feature#0x00020000
+ADDED from com.google.android.gms:play-services-maps:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:22:5
+MERGED from com.google.android.gms:play-services-maps:8.4.0:22:5
+	android:glEsVersion
+		ADDED from com.google.android.gms:play-services-maps:8.4.0:23:8
+	android:required
+		ADDED from com.google.android.gms:play-services-maps:8.4.0:24:8
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from com.google.android.gms:play-services-gcm:8.4.0:21:5
+MERGED from com.google.android.gms:play-services-gcm:8.4.0:21:5
+	android:name
+		ADDED from com.google.android.gms:play-services-gcm:8.4.0:21:22
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from com.google.android.gms:play-services-measurement:8.4.0:28:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:28:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:28:7
+	android:authorities
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:29:11
+	android:exported
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:31:11
+	android:name
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:30:11
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from com.google.android.gms:play-services-measurement:8.4.0:33:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:33:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:33:7
+	android:enabled
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:35:11
+	android:name
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:34:11
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from com.google.android.gms:play-services-measurement:8.4.0:36:9
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from com.google.android.gms:play-services-measurement:8.4.0:37:11
+	android:name
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:37:19
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from com.google.android.gms:play-services-measurement:8.4.0:41:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:41:7
+MERGED from com.google.android.gms:play-services-measurement:8.4.0:41:7
+	android:enabled
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:43:11
+	android:exported
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:44:11
+	android:name
+		ADDED from com.google.android.gms:play-services-measurement:8.4.0:42:11

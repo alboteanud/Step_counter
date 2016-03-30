@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
     <string-array name="units_array">
@@ -15,10 +16,11 @@
         <item>@string/cm</item>
     </string-array>
 
-    <string-array name="weight_unit_array">
-        <item>lb.</item>
+    <string-array name="weight_unit_array" translatable="false">
+        <item>@string/lb_label</item>
         <item>@string/kg</item>
     </string-array>
 
-
+    <string-array name="pref_syncConnectionTypes_entries">entries</string-array>
+    <string-array name="pref_syncConnectionTypes_values">entryValues</string-array>
 </resources>

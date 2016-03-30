@@ -32,7 +32,7 @@ public class AlarmReceiver extends WakefulBroadcastReceiver {
          * receiver's intent. For example:
          * 
          * ComponentName comp = new ComponentName(context.getPackageName(), 
-         *      MyService.class.getName());
+         *      MainService.class.getName());
          *
          * // This intent passed in this call will include the wake lock extra as well as 
          * // the receiver intent contents.
@@ -41,14 +41,14 @@ public class AlarmReceiver extends WakefulBroadcastReceiver {
          * In this example, we simply create a new intent to deliver to the service.
          * This intent holds an extra identifying the wake lock.
          */
-      //  Intent service = new Intent(context, MyService.class);
+        //  Intent service = new Intent(context, MainService.class);
      //   service.setAction(Constants.ACTION_NEW_DAY_ALARM);
         Log.d("TAG", " ALARM onReceive" );
         
         // Start the service, keeping the device awake while it is launching.
       //  startWakefulService(context, service);
         // END_INCLUDE(alarm_onreceive)
-        context.startService(new Intent(context, MyService.class).setAction(Constants.ACTION_NEW_DAY_ALARM));
+        context.startService(new Intent(context, MainService.class).setAction(Constants.ACTION_NEW_DAY_ALARM));
     }
 
     // BEGIN_INCLUDE(set_alarm)

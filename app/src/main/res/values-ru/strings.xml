@@ -3,7 +3,7 @@
 
     <string name="app_name">Шагомер</string>
     <string name="km">км</string>
-    <string name="steps">шаг.</string>
+    <string name="steps_label">шаг.</string>
     <string name="settings">Настройки</string>
     <string name="calories_text">ккал</string>
     <string name="yesterday">Вчера</string>
@@ -17,9 +17,12 @@
     <string name="default_weight">60</string>
     <string name="kg">кг</string>
     <string name="ft">фут</string>
+    <string name="lb_label">lb.</string>
     <string name="cm">см</string>
     <string name="male">мужской</string>
     <string name="female">женский</string>
     <string name="miles">mi.</string>
+    <string name="goodbye">До свидания!</string>
+    <string name="startedMessage">OК</string>
 
 </resources>

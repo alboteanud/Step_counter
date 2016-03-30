@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Step</string>
+    <string name="app_name">Pedómetro</string>
     <string name="km">km</string>
-    <string name="steps">steps</string>
+    <string name="steps_label">pasos</string>
     <string name="settings">Ajustes</string>
-    <string name="calories_text">Cal</string>
+    <string name="calories_text">kcal</string>
     <string name="yesterday">Ayer</string>
-    <string name="units">Units</string>
-    <string name="years">years</string>
-    <string name="distance">Distance</string>
-    <string name="gender">Gender</string>
-    <string name="age">Age</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
+    <string name="units">Unidades</string>
+    <string name="years">años</string>
+    <string name="distance">Distancia</string>
+    <string name="gender">Sexo</string>
+    <string name="age">Edad</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
     <string name="default_weight">60</string>
     <string name="kg">kg</string>
-    <string name="ft">ft</string>
+    <string name="ft">pie, pul</string>
     <string name="cm">cm</string>
-    <string name="male">male</string>
-    <string name="female">female</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
     <string name="miles">mi.</string>
+    <string name="goodbye">Adiós!</string>
+    <string name="startedMessage">vale!</string>
+    <string name="lb_label">lb.</string>
 
 </resources>

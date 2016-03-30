@@ -2,4 +2,10 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="mainTextSize">40dp</dimen>
+    <dimen name="yearsWidth">84dp</dimen>
+    <dimen name="yearsMargin">3dp</dimen>
+    <!--1=km  0=mi.-->
+
 </resources>

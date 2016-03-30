@@ -3,23 +3,26 @@
 
     <string name="app_name">Pedometru</string>
     <string name="km">km</string>
-    <string name="steps">pasi</string>
-    <string name="settings">Seari</string>
+    <string name="steps_label">paşi</string>
+    <string name="settings">Setări</string>
     <string name="calories_text">Cal</string>
     <string name="yesterday">Ieri</string>
-    <string name="units">Unitati</string>
+    <string name="units">Sistem de unităţi</string>
     <string name="years">ani</string>
-    <string name="distance">Distanta</string>
+    <string name="distance">Distanţa</string>
     <string name="gender">Sexul</string>
     <string name="age">Varsta</string>
-    <string name="height">Inaltimea</string>
+    <string name="height">Inălţimea</string>
     <string name="weight">Greutatea</string>
     <string name="default_weight">60</string>
     <string name="kg">kg</string>
-    <string name="ft">ft</string>
+    <string name="lb_label">lb.</string>
+    <string name="ft">ft, in</string>
     <string name="cm">cm</string>
-    <string name="male">M</string>
-    <string name="female">F</string>
+    <string name="male">Masculin</string>
+    <string name="female">Feminin</string>
     <string name="miles">mi.</string>
+    <string name="goodbye">La revedere!</string>
+    <string name="startedMessage">Pornit</string>
 
 </resources>

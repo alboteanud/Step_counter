@@ -13,6 +13,10 @@
         android:name="android.hardware.sensor.stepcounter"
         android:required="true" />
 
+    <android:uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -24,32 +28,44 @@
 
         <activity
             android:name=".MainActivity"
-            android:excludeFromRecents="true"
             android:label="@string/app_name"
-            android:launchMode="singleTask"
-            android:taskAffinity=""
-            android:theme="@style/StepsTheme" >
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!--
+            <activity
+            android:name=".ActivityMain"
+            android:excludeFromRecents="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            android:theme="@style/StepsTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        -->
         <activity
             android:name=".Settings"
             android:label="@string/settings"
             android:parentActivityName=".MainActivity"
-            android:theme="@style/SettingsTheme" >
+            android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
 
         <service
-            android:name=".MyService"
+            android:name=".MainService"
             android:enabled="true"
-            android:exported="true" >
-        </service>
+            android:exported="true" />
 
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
@@ -59,7 +75,7 @@
         <receiver android:name=".AlarmReceiver" />
         <receiver
             android:name=".BootReceiver"
-            android:enabled="true" >
+            android:enabled="false">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
                 <action android:name="android.intent.action.ACTION_SHUTDOWN" />

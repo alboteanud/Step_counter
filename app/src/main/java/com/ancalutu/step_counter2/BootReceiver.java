@@ -15,26 +15,6 @@ import android.content.pm.PackageManager;
  */
 // BEGIN_INCLUDE(autostart)
 public class BootReceiver extends BroadcastReceiver {
-  //  AlarmReceiver alarm = new AlarmReceiver();
-    @Override
-    public void onReceive(Context context, Intent intent) {
-        if (intent.getAction().equals("android.intent.action.BOOT_COMPLETED"))
-        {
-         //   alarm.setAlarm(context) ;
-         /*   SharedPreferences sharedPref= PreferenceManager.getDefaultSharedPreferences(context);
-            SharedPreferences.Editor editor = sharedPref.edit();
-            editor.putInt(Constants.M_COUNTER_STEPS, 0);
-            editor.commit();*/
-            context.startService(new Intent(context, MyService.class).setAction(Constants.ACTION_BOOT_START));
-          //  MyService2.startActionRegisterSensor(context, null, null);
-
-        }else if (intent.getAction().equals("android.intent.action.ACTION_SHUTDOWN")) {
-           // MyService2.startActionSaveSteps(context, null, null);
-            context.startService(new Intent(context, MyService.class).setAction(Constants.ACTION_SHUTDOWN));
-
-        }
-    }
-
     public static void enableBootReceiver(Context context) {
 
         // Enable {@code SampleBootReceiver} to automatically restart the flush_alarm when the
@@ -58,6 +38,25 @@ public class BootReceiver extends BroadcastReceiver {
         pm.setComponentEnabledSetting(receiver,
                 PackageManager.COMPONENT_ENABLED_STATE_DISABLED,
                 PackageManager.DONT_KILL_APP);
+    }
+
+    //  AlarmReceiver alarm = new AlarmReceiver();
+    @Override
+    public void onReceive(Context context, Intent intent) {
+        if (intent.getAction().equals("android.intent.action.BOOT_COMPLETED")) {
+            //   alarm.setAlarm(context) ;
+         /*   SharedPreferences sharedPref= PreferenceManager.getDefaultSharedPreferences(context);
+            SharedPreferences.Editor editor = sharedPref.edit();
+            editor.putInt(Constants.M_COUNTER_STEPS, 0);
+            editor.commit();*/
+            context.startService(new Intent(context, MainService.class).setAction(Constants.ACTION_BOOT_START));
+            //  MyService2.startActionRegisterSensor(context, null, null);
+
+        } else if (intent.getAction().equals("android.intent.action.ACTION_SHUTDOWN")) {
+            // MyService2.startActionSaveSteps(context, null, null);
+            context.startService(new Intent(context, MainService.class).setAction(Constants.ACTION_SHUTDOWN));
+
+        }
     }
 }
 //END_INCLUDE(autostart)
