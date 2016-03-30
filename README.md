@@ -6,9 +6,10 @@ Uses the device's step counter / step detector to detect and calulate the steps,
 Screenshots
 -----------
 
-![Phone main activity](screenshots/PhoneMain.png "Main activity")
+
 ![Phone main activity](screenshots/PhoneMain2.png "Main activity")
 ![Phone main activity](screenshots/PhoneMain3.png "Main activity")
+![Phone main activity](screenshots/PhoneMain.png "Main activity")
 ![Settings](screenshots/Settings.png "Settings")
 
 
